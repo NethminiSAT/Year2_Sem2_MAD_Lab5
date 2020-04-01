@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BroadcastProj</string>
+    <string name="app_message">messages</string>
+    <string name="start_broadcast">START BROADCAST</string>
+</resources>
